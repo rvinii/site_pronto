@@ -1,0 +1,13 @@
+.navbar{
+    padding: 10px;
+}
+.navbar-brand{
+    color: rgb(120,157,62);
+}
+.btn{
+    background-color: rgb(120,157,62);
+    border: 0;
+}
+#home-header{
+    margin-bottom: 0;
+}
